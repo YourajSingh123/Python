@@ -13,3 +13,5 @@ print(tup[1:])
 print(tup.index(9))          #return index of first occurence
 print(tup.count(5))          #count total occurence
 print(tup.__contains__(1))   #check element existence
+
+#tuples 
